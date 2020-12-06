@@ -1,12 +1,12 @@
 h1 {
-	font: Helvetica;
-	color: indianred;
+	font-family: : Helvetica;
+	color: #cd5c5c;
 	font-size: 32 px;
 }
 ul {
-	color: darkblue;
+	color: #00008b;
 	font-size : 13 px;
-	font: monospace;
+	font-family: monospace;
 }
 
 
